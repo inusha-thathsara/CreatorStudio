@@ -1,0 +1,5 @@
+{
+  "name": "CreatorStudio",
+  "description": "An automated social media visualizer that generates platform-specific images based on context.",
+  "requestFramePermissions": []
+}
